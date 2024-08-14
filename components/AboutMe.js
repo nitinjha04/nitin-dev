@@ -65,60 +65,26 @@ export default function AboutMe() {
             <Heading fontFamily="Ubuntu" fontSize="2xl">
               ⚡ About Me
             </Heading>
+
             <Text
               color="textSecondary"
               fontSize={{ base: '14px', md: '16px' }}
               whiteSpace="pre-line"
             >
-              💫 Meet the DEV Alchemist: Turning Code into Gold! 🧙‍♂️💻### <br />
-              <br /> I really liked to build stuff using{' '}
+              Hey! I'm Nitin Jha, I've been close to a computer since an
+              early age, and been passionate about it ever since.
+              <br />
+              <br />
+              I'm a passionate Full Stack Developer who loves building
+              innovative solutions with code. I focus on Web & Mobile
+              Development and enjoy automating tasks to make life easier.
+              Currently, I'm diving deep into Open Source projects and
+              continuously learning new technologies to improve my skills.
               {/* <MoreInfo
-                content="I used to make games without code using RPG Maker VX, and build a simple website with blogspot back in primary school."
-                text="no-code tools"
-              /> */}
-              In the mystical realm of software development, where bugs lurk in
-              every corner 🐛 and deadlines loom like ancient curses ⏳, there
-              exists a legendary figure known as the DEV Alchemist. With a
-              keyboard as his wand 🎹 and caffeine as his elixir ☕, this Full
-              Stack wizard brews up magic from mere lines of code.
-              {/* <MoreInfo
-                content={
-                  <Image
-                    w={306}
-                    h={102}
-                    alt="linkedin Qneksi"
-                    src="https://imagizer.imageshack.com/a/img923/541/alNCHs.png"
-                  />
-                }
-                text="Recruitment Company"
-              /> */}
-              {/* and a */}
-              {/* <MoreInfo
-                content={
-                  <Image
-                    w={306}
-                    h={102}
-                    alt="linkedin Qasir"
-                    src="https://imagizer.imageshack.com/a/img922/6137/c0cugn.png"
-                  />
-                }
-                text="SaaS Company"
-              /> */}
-              I'm interested in building something awesome with code and
-              automate tasks with code, currently focused on
-              <MoreInfo
                 content="Building Web and Mobile Applications using Javascript Frameworks (Node js, and Next.js)"
-                text="Web & Mobile Development,"
+                text="Web & Mobile Development"
               />
-              <MoreInfo
-                content="I really like the idea of contributing new features to open source projects that can be useful to other people."
-                text="Open Source"
-              />
-              .
-              {/* <MoreInfo
-                content="Competitive Programming helped me to sharpen my Algorithms and Problem Solving skills."
-                text="Competitive Programming"
-              /> */}
+              . */}
               <br />
               <br />
               When I'm not coding I play games with my friends, watch some show
