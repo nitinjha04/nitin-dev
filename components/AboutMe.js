@@ -76,8 +76,7 @@ export default function AboutMe() {
               <br />
               <br />
               I'm a passionate Full Stack Developer who loves building
-              innovative solutions with code. I focus on Web & Mobile
-              Development and enjoy automating tasks to make life easier.
+              innovative solutions with code. I focus on full stack development and enjoy automating tasks to make life easier.
               Currently, I'm diving deep into Open Source projects and
               continuously learning new technologies to improve my skills.
               {/* <MoreInfo
