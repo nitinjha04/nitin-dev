@@ -2,6 +2,7 @@ import { ChakraProvider } from '@chakra-ui/react'
 import customTheme from '../styles/theme'
 import { Global, css } from '@emotion/react'
 import { prismDarkTheme } from '../styles/prism'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 const GlobalStyle = ({ children }) => {
   return (
     <>
@@ -48,6 +49,7 @@ function MyApp({ Component, pageProps }) {
     <ChakraProvider resetCSS theme={customTheme}>
       <GlobalStyle>
         <Component {...pageProps} />
+        <SpeedInsights />
       </GlobalStyle>
     </ChakraProvider>
   )
