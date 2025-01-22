@@ -57,7 +57,7 @@ export default function Index({ introduction, projects, contactMe,featuredProjec
         >
           <Introduction introduction={introduction} />
           <AboutMe />
-          <FeaturedProjects projects={projects} />
+          <FeaturedProjects projects={featuredProjects} />
           <ContactMe contactMe={contactMe} />
         </Stack>
       </Container>
